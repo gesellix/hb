@@ -1,7 +1,7 @@
 ---
 title: Sanierung der Rheinstraße Herschbach
 subtitle: Informationen und News
-image: /img/products-full-width.jpg
+image: /img/matteo-paganelli-157464-unsplash.jpg
 blurb:
   heading: Worum geht's?
   text: ...
